@@ -1,0 +1,1 @@
+Continuando os estudos de HTML/CSS, esse projeto é de um site de um Hotel.
