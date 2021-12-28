@@ -1,1 +1,1 @@
-Continuando os estudos de HTML/CSS, esse projeto é de um site de um Hotel.
+Keeping up with the html/css study, the intent of this project is to build a hotel website.
