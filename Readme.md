@@ -5,3 +5,6 @@ Adding the structure of the project and started the navbar.
 
 12/29/2021
 CSS and html upgrades in index and about.
+
+12/30/2021
+Corrections in index, and made the contact page.
