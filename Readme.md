@@ -8,3 +8,4 @@ CSS and html upgrades in index and about.
 
 12/30/2021
 Corrections in index, and made the contact page.
+Added responsiveness in all pages.
